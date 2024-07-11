@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['Tshirt', 'dress', 'jacket', 'pants', 'shirt', 'short', 'skirt', 'sweater']
+
+roboflow:
+  workspace: dataset-yn4f8
+  project: main-fashion
+  version: 6
+  license: MIT
+  url: https://universe.roboflow.com/dataset-yn4f8/main-fashion/dataset/6
