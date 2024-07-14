@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: C:\Users\PORTATILMP\Documents\DatasetDressMe01\train\
+val: C:\Users\PORTATILMP\Documents\DatasetDressMe01\valid\
+test: C:\Users\PORTATILMP\Documents\DatasetDressMe01\test\
 
 nc: 8
 names: ['Tshirt', 'dress', 'jacket', 'pants', 'shirt', 'short', 'skirt', 'sweater']
